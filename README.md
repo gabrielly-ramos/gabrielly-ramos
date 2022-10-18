@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+
+Me chamo Gabrielly, sou formada em Analise e desenvolvimento de sistemas, atualmente trabalho com desensolvimento de API's Django
 
 <!--
 **gabrielly-ramos/gabrielly-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...q
 -->
