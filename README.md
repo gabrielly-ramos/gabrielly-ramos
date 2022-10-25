@@ -4,6 +4,6 @@ Me chamo Gabrielly, sou formada em Analise e desenvolvimento de sistemas, atualm
 
 Minhas redes sociais
 
-instagram: https://www.instagram.com/gabbyrramos/
+Instagram: https://www.instagram.com/gabbyrramos/
 
 Linkedin: https://www.linkedin.com/in/gabrielly-rramos/
